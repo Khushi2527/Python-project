@@ -80,7 +80,6 @@ summary_label.pack()
 summary = tk.Text(root, height=26, width=140)
 summary.config(state='disabled', bg='#dddddd')
 summary.pack()
-##### Now Khushi will explain
 
 url_label = tk.Label(root, text='URL')
 url_label.pack()
